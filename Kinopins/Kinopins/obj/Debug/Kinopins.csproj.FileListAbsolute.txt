@@ -1,0 +1,9 @@
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\bin\Debug\Kinopins.exe.config
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\bin\Debug\Kinopins.exe
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\bin\Debug\Kinopins.pdb
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\obj\Debug\Kinopins.csprojResolveAssemblyReference.cache
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\obj\Debug\Kinopins.Form1.resources
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\obj\Debug\Kinopins.Properties.Resources.resources
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\obj\Debug\Kinopins.csproj.GenerateResource.Cache
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\obj\Debug\Kinopins.exe
+C:\doc\Visual Studio 2013\Projects\Kinopins\Kinopins\obj\Debug\Kinopins.pdb
